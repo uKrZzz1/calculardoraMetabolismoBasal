@@ -28,4 +28,5 @@ Para calcular o MB necessita de quatro informações: idade, gênero, peso e alt
 
 Cada informação é armazenada na sua respectiva variável, e para realizar a soma, a informação de gênero é utilizada em um teste logico, sendo uma conta para o gênero masculino e outra para o feminino. Assim, após o cálculo ser concluído, ele informa na tela o valor do seu MB.
 
-https://github.com/uKrZzz1/calculardoraMetabolismoBasal/issues/3#issue-1932156104
+![image](https://github.com/uKrZzz1/calculardoraMetabolismoBasal/assets/126217318/6f4e4209-4604-497d-8de7-2764eee5b8df)
+
