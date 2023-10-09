@@ -24,4 +24,6 @@ O código para realizar o cálculo foi realizado com javascrip e baseado na fór
 
 Para calcular o MB necessita de quatro informações: idade, gênero, peso e altura. Após preencher os campos com as mesma, ao clicar no botão "Calcular MB" ele chama a função calculateBMR.
 
+![image](https://github.com/uKrZzz1/calculardoraMetabolismoBasal/assets/126217318/195b76ee-d4af-4259-b962-4dee87656f32)
+
 Cada informação é armazenada na sua respectiva variável, e para realizar a soma, a informação de gênero é utilizada em um teste logico, sendo uma conta para o gênero masculino e outra para o feminino. Assim, após o cálculo ser concluído, ele informa na tela o valor do seu MB.
